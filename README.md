@@ -1,4 +1,4 @@
-# kuwo-dl
+# kuwo-dl-gui
 
 A GUI version of kuwo-dl to download fully tagged tracks and albums from from kuwo.cn.
 
