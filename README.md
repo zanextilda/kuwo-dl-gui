@@ -25,6 +25,15 @@ NOTE: There are alot of geo-restricted tracks on kuwo, this program can bypass a
 - `Pillow`
 - `mutagen`
 
+![image](https://github.com/user-attachments/assets/47142503-f2bd-4721-8045-cb2cd26ed929)
+
+![image](https://github.com/user-attachments/assets/d819d3c1-3a81-4f30-8345-85a57d5c9faf)
+
+![image](https://github.com/user-attachments/assets/cf82f5d0-515c-4801-9113-42a8c15c784c)
+
+
+
+
 
 
 
